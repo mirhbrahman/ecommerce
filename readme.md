@@ -1,1 +1,1 @@
-## It's a blog written in laravel
+## It's a simple ecommerce written in laravel
